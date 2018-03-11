@@ -1,0 +1,2 @@
+language: generic
+script: tar -zcvf eclipse-inst-linux64.tar.gz eclipse-inst-linux64
